@@ -1,0 +1,30 @@
+#Texto1{
+    width:80%;
+    float:left;
+    font-family:Verdana;
+    font-size:150%;
+    text-align:justify;
+    }
+    
+    #p_texto1{
+    text-align: left;
+    text-transform: capitalize;
+    }
+        
+    #texto2{
+    width: 1000px;
+    height: 50px;
+    
+    }
+    
+    #p_texto2{
+    text-align: justify;
+    }
+    
+    #imagen2{
+    width: 100px;
+    height: 100px;
+    top: 300px;
+    right: 10px;
+    position: relative;
+    }
